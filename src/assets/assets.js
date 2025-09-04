@@ -82,14 +82,14 @@ export const albumsData = [
 		name: 'Top 50 South Korea',
 		image: img9,
 		desc: 'Your weekly update of the most played tracks',
-		bgColor: '#22543d',
+		bgColor: '#f22f34',
 	},
 	{
 		id: 2,
 		name: 'Trending South Korea',
 		image: img10,
 		desc: 'Your weekly update of the most played tracks',
-		bgColor: '#742a2a',
+		bgColor: '#DC841F',
 	},
 	{
 		id: 3,
